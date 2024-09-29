@@ -23,3 +23,14 @@
 ## Experiments
 - 🙂
 - 😐
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Ctrl-N (new browser window)
+- Alt-F (file menu)
