@@ -3,7 +3,7 @@
 - ~ (Tilde)
 - ! (Exclamation Point)
 - @ ("at" sign)
-- #\ (Pound sign)
+- \# (Pound sign)
 - $ (Dollar sign)
 - % (Percentage sign)
 - ^ (Caret)
