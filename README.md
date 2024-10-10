@@ -30,7 +30,10 @@ Shortcuts I frequently use:
 - Ctrl-V (paste)
 - Ctrl-Z (undo)
 
-Shortcuts I would like to start using: 
+## Shortcuts I would like to start using: 
 - Ctrl-A (select all)
 - Ctrl-N (new browser window)
 - Alt-F (file menu)
+
+## Link to New Page
+- [CLI commands](docs/cli.md)
